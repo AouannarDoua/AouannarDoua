@@ -129,7 +129,6 @@
 |---------|-------|-------|
 | Cycle Ingénieur — Intelligence Artificielle | ENIAD Berkane | 2024 – 2027 |
 | DUT — Développement Web & Mobile | EST Nador | 2022 – 2024 |
-| Baccalauréat Sciences Physiques | Lycée Farkhana, Nador | 2022 |
 
 ---
 
