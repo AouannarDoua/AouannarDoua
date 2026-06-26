@@ -17,7 +17,7 @@
 
 ## 👩‍💻 À propos de moi
 
-Étudiante ingénieure en **Intelligence Artificielle & Data Science** à l'**ENIAD Berkane** (2ème année du cycle ingénieur). Passionnée par le **NLP**, les systèmes **RAG**, l'**IA Générative** et les **agents multi-tâches**, avec la capacité de concevoir et livrer des solutions IA complètes de bout en bout. Des projets réels. Pas juste de la théorie.
+Étudiante ingénieure en **Intelligence Artificielle & Data Science** à l'**ENIAD Berkane** (2ème année du cycle ingénieur). Passionnée par le **NLP**, les systèmes **RAG**, l'**IA Générative**, le **Machine Learning**, le **Deep Learning** et les **agents multi-tâches**, avec la capacité de concevoir et livrer des solutions IA complètes de bout en bout. Des projets réels. Pas juste de la théorie.
 
 📍 Maroc &nbsp;|&nbsp; 🔍 Ouverte aux opportunités de stage — **juillet 2026** (2 à 3 mois)
 
