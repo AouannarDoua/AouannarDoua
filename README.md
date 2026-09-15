@@ -104,6 +104,19 @@ Final-year student in the AI engineering cycle, with hands-on experience in **Ma
 
 ---
 
+### 🫀 ECG Classification — Deep Learning on Raw Physiological Signals
+> AI internship project at **Akdital**, Casablanca — clinical-grade ECG analysis pipeline
+
+- 🧹 Built a standardization and quality-control pipeline for **multi-format ECG data**, including signal processing and feature extraction for classification
+- 🧠 Designed a **1D CNN in PyTorch** trained directly on the raw 12-lead ECG signal (4 convolutional blocks), complementing classical ML models built on hand-crafted features
+- ⚖️ Benchmarked the deep learning approach against classical ML (Scikit-learn, XGBoost) on the same task
+- 🖥️ Set up a dedicated training environment (Python 3.12, NVIDIA GPU) and ran **cross-database generalization tests** to compare robustness between both approaches
+- 📊 Interactive Streamlit interface for signal exploration and model results
+- **Stack:** `Python` `PyTorch` `NumPy` `Pandas` `SciPy` `WFDB` `NeuroKit2` `Scikit-learn` `XGBoost` `Streamlit` `Matplotlib`
+- ⚡ **AUC-ROC = 0.97** on the ECG classification model
+
+---
+
 ### 🟠 [DRL Interactive Explorer](https://github.com/AouannarDoua/DRL_Interactive_Explorer)
 > Interactive website to explore and learn Deep Reinforcement Learning
 
