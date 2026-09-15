@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Doua Aouannar Banner" width="100%"/>
+  <img src="banner.png" alt="Doua Aouannar Banner" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Doua AOUANNAR</h1>
